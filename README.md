@@ -1,2 +1,9 @@
-# example-html
-Practice HTML and example tag uses
+# Example HTML Project
+
+## Core Contributors
+
+- @jordanmccullough
+- @pmccullough
+- @cynthia
+
+## Purpose
